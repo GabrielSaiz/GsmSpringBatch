@@ -1,2 +1,14 @@
-# GsmSpringBatch
-Pruebas de Concepto con Spring Batch
+#GSM Spring Batch Demos#
+
+This project pick up my experience with Spring Batch and try to teach with generic examples the solutions that I had to apply in my proyects.
+
+Sometimes this solutions are good decisions and tecnical implementantios and sometimes this solutions are valid workarround that I got to do.
+
+In general this project is a set of Probe of Concepts
+
+## Proyect and Summary ##
+
+- GsmHelloBatch: this proyect is a simple Spring Batch example. For implement this example I followed this Spring IO Guide. This is the Java Hello World equivalente.
+​
+
+
