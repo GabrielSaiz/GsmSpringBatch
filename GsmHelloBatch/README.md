@@ -1,4 +1,4 @@
-#GSM Hello World Batch #
+# GSM Hello World Batch #
 
 This project is an example done followed, step by step, the Spring IO oficial guide (https://spring.io/guides/gs/batch-processing/)
 

@@ -1,4 +1,4 @@
-#GSM Spring Batch Demos#
+# GSM Spring Batch Demos #
 
 This project pick up my experience with Spring Batch and try to teach with generic examples the solutions that I had to apply in my proyects.
 
