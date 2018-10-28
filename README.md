@@ -8,7 +8,19 @@ In general this project is a set of Probe of Concepts
 
 ## Proyect and Summary ##
 
-- GsmHelloBatch: this proyect is a simple Spring Batch example. For implement this example I followed this Spring IO Guide. This is the Java Hello World equivalente.
+- [GsmHelloBatch][GsmHelloBatch]: this proyect is a simple Spring Batch example. For implement this example I followed this Spring IO Guide. This is the Java Hello World equivalente.
+- [GsmHelloMultipleDataSourceBatch][GsmHelloMultipleDataSourceBatch]: this proyect is a example of a proyect that need two datasources... one for Spring Batch and otherone for business logic
 ​
 
 
+
+
+
+
+
+
+
+
+
+[GsmHelloBatch]: https://github.com/GabrielSaiz/GsmSpringBatch/tree/master/GsmHelloBatch
+[GsmHelloMultipleDataSourceBatch]: https://github.com/GabrielSaiz/GsmSpringBatch/tree/master/GsmHelloMultipleDataSourceBatch
